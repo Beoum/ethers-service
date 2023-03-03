@@ -1,4 +1,6 @@
 # Ethers-Service
+## Spec
+* Nest.js with layer architecture
 ## Description
 Search Block, TransactionReceipt, Log using Ethers.js and cache the results in heap memory.
 And it provides an API to look up them.
